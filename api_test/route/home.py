@@ -7,5 +7,5 @@ class GetHomePage(Resource):
     return {
       'email': 'oreoluwaakinbo.oa@gmail.com',
       'current_datetime': datetime.now().isoformat(),
-      'url': 'jjfd'
+      'url': 'https://hng-12-basic-api.onrender.com'
     }
